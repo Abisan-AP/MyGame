@@ -1,0 +1,28 @@
+Game Idea
+- I want to make a survival game where our protagonist needs to survive the zombie apocalypse.
+
+Scenario and characters description
+- We could be in a building where its the last line of defense. This building is actually a military base.
+- We could have several characters to choose from where each one of them has a special power.
+
+Characters' actions and goals
+-The goals are to survive and collect resources to get upgrades for new weapons and powers from the military base.
+-They will be killing the zombies non stop until they get enough resources to get upgrades 
+ and progress in the game until they meet the final boss.
+
+Game Win/Lose conditions
+-You win the game when you beat the final boss.
+-You lose the game if you die before getting to the boss.
+
+Progressions levels
+-We could have 10 levels where at the 10th level we have the final boss and at the 5th level we have the miniboss.
+-Each level will be a wave type of stages. Each time, the waves will be increasingly harder.
+
+Sources of inspiration
+-Any and every zombie movie/series out there. (ZNation, The Walking Dead)
+-Call of Duty Zombies (Mostly)
+
+Skills/Interest I am looking for in a teammate
+-I want you to be able to adapt. 
+-If somethings/ideas change I want you to be able to adapt to any situation. 
+
